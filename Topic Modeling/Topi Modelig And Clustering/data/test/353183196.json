@@ -1,0 +1,226 @@
+{
+    "entries": [
+        {
+            "start_timestamp_usec": 1000000, 
+            "text": "Your web support advisor today is Poppy, from the XYZ Live Chat team", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 2000000, 
+            "text": "Welcome to XYZ's help and support web team", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 3000000, 
+            "text": "Secure forms are enabled during this chat session", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 4000000, 
+            "text": "Hi User 4, my #ALNUM Poppy. How may I help you today", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 5000000, 
+            "text": "Hello Poppy. I recently recieved an email regarding my renewal i was just wondering how come the renewal is higher than last years.", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 6000000, 
+            "text": "I'm sorry to hear you're not happy with your renewal premium. I'd be happy to check and see if this is the best price we can offer.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 7000000, 
+            "text": "Yeah thats fine thank you", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 8000000, 
+            "text": "No worries, can I take your policy number please", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 9000000, 
+            "text": "My policy number.. hold on", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 10000000, 
+            "text": "MMV", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 11000000, 
+            "text": "Thanks, please bear with me for a couple of minutes while I look into this for you.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 12000000, 
+            "text": "Just to check, have you read and understood your renewal documents", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 13000000, 
+            "text": "Yeah it is the same as last years however last years payment was increased due to me getting temporary cover on my old car twice and thats why it increased overall", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 14000000, 
+            "text": "You wouldn't be getting charged extra at renewal for temporary cover, as this is one off payments that you would have of had spread over your installments or paid in full at the time.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 15000000, 
+            "text": "Yeah thats what happend", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 16000000, 
+            "text": "I'll have a look and see what I can do for you. Are there any changes you'd like to make to your renewal", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 17000000, 
+            "text": "No I wouldnt like to change anything", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 18000000, 
+            "text": "No worries.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 19000000, 
+            "text": "Thank you", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 20000000, 
+            "text": "Thanks for your patience, the revised renewal premium with a loyalty discount applied is #NUM with monthly payments at #ALNUM", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 21000000, 
+            "text": "Or if you were to pay in full, it would be #ALNUM", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 22000000, 
+            "text": "Thank you. That quote is much better. Could this be updated onto my account please", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 23000000, 
+            "text": "And if i were to pay in full on the #ALNUM of February how do i change that", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 24000000, 
+            "text": "So the price that I have offered would only be available to pay for over chat or over the phone.ecause loyalty discounts are not offered online.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 25000000, 
+            "text": "If you wanted to pay in full, I would need to cancel your automatic renewal, and then set up a new policy with the prefered payment method.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 26000000, 
+            "text": "Thats fine so i just need to call in and or chat online to sort that out", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 27000000, 
+            "text": "That's fine, if you are wanting to pay in full, what I suggest you do is create a new business quote by clicking a target'blank' href#Link and then we'll match the price for you over the phone or on chat.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 28000000, 
+            "text": "ut if your happy with the price on a pay monthly basis, then this will automatically renew with this price and you don't need to do anything.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 29000000, 
+            "text": "It's up to you.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 30000000, 
+            "text": "Thats fine. I will have a think about it. Thank you so much for your help you have been great Poppy. hope you have a good day", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 31000000, 
+            "text": "Your revised renewal documents will appear in your online account in the next #NUM minutes or so.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 32000000, 
+            "text": "Just get in touch with us when you make your decision We'll be more than happy to help.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 33000000, 
+            "text": "Your chat transcript will be sent to #EmailID at the end of your chat.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 34000000, 
+            "text": "Is there anything else I can help you with today", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 35000000, 
+            "text": "#ALNUM not heard from you for a few moments. Are you still with me", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 36000000, 
+            "text": "Since #ALNUM not heard from you for some time, I will close this chat. If you need any help in future, please #ALNUM hesitate to chat with us again.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 37000000, 
+            "text": "The chat session has been closed by your XYZ Advisor. To receive a transcript of this chat, or tell us how we did today, please click 'Close Chat' at the top right of this window.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }
+    ]
+}

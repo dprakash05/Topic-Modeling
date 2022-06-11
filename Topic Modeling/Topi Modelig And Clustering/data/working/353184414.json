@@ -1,0 +1,82 @@
+{
+    "entries": [
+        {
+            "start_timestamp_usec": 1000000, 
+            "text": "Your web support advisor today is Areatha, from the XYZ Live Chat team", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 2000000, 
+            "text": "Welcome to XYZ's help and support web team", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 3000000, 
+            "text": "Secure forms are enabled during this chat session", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 4000000, 
+            "text": "Hi User 25, my #ALNUM Areatha. How may I help you today", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 5000000, 
+            "text": "Can u check if I am still insured with you please", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 6000000, 
+            "text": "I am looking at my insurance and it look like it hasn't been renewed automatiquely", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 7000000, 
+            "text": "Hi Sebastien, from the policy number you have entered this tells me you are insured through a broker and not directly with XYZ, you will need to contact the broker you bought the policy from", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 8000000, 
+            "text": "I understand but it is bank holiday and I can't get through to them it is a Avila insurance can u check it", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 9000000, 
+            "text": "Sorry we cannot check broker policies, we only have access to policies that were bought direct from ourselves. You will need to speak to the broker or you can search online on the motor insurer data base to check if the car is insured, however it won't tell you any policy details.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 10000000, 
+            "text": "Can you give me a link please", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 11000000, 
+            "text": "sorry the only links we have are to the XYZ website, you can use a search engine to find it.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 12000000, 
+            "text": "Thank you for chatting with me today. #ALNUM love to know what you think of our chat service. If #ALNUM happy to answer a few quick questions, click on #ALNUM #ALNUM", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 13000000, 
+            "text": "The chat session has been closed by your XYZ Advisor. To receive a transcript of this chat, or tell us how we did today, please click 'Close Chat' at the top right of this window.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }
+    ]
+}

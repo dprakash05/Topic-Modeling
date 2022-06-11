@@ -1,0 +1,208 @@
+{
+    "entries": [
+        {
+            "start_timestamp_usec": 1000000, 
+            "text": "Your web support advisor today is Dave, from the XYZ Live Chat team", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 2000000, 
+            "text": "Welcome to XYZ's help and support web team", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 3000000, 
+            "text": "Secure forms are enabled during this chat session", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 4000000, 
+            "text": "Hi User 18, my #ALNUM Dave. How may I help you today", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 5000000, 
+            "text": "I already hold a policy for car insurance with your self and i spoke to someone at work who mentioned multicar", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 6000000, 
+            "text": "Okay", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 7000000, 
+            "text": "but i will just add i amended the policy the other day to insure my new car and have only just noticed the amendment hasnt actually gone through", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 8000000, 
+            "text": "You have on cover #ALNUM presently", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 9000000, 
+            "text": "Is this still correct", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 10000000, 
+            "text": "No it isnt. Im wanting to change the main insurance to the vehicle #ALNUM RBX which i did the other day and it came up with no changes to your premium", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 11000000, 
+            "text": "And to note your online quote to add a vehicle is for #ALNUM which as advised is already on cover", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 12000000, 
+            "text": "Sure, no problem.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 13000000, 
+            "text": "Yeah thats where the problem is. I want the other car on the proper insurance as at the moment im looking to take the ML off the road as it needs some things doing to it however once everything is fixed im wanting to then maybe add it on to this insurance given the multicar insurance is a good saving", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 14000000, 
+            "text": "Ok, i can see you've already obtained a quote online however as mentioned above this was to add the same vehicle again as a second car.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 15000000, 
+            "text": "Here's a guide on how to replace a vehicle on your policy", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 16000000, 
+            "text": "Scroll down and expand the relevant vehicle details section then click the \u2018Replace this vehicle\u2019 button and add the replacement car details.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 17000000, 
+            "text": "After you've completed this. Scroll down to the bottom of the page, select a date for the change and click 'get quote'.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 18000000, 
+            "text": "Thats what ive just tried to do and it said there was an error and to contact you,", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 19000000, 
+            "text": "I'm sorry to hear you're struggling online to change your vehicle, what error or issue are you experiencing online please", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 20000000, 
+            "text": "It just said there was a technical issue with the website and to contact you", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 21000000, 
+            "text": "Ok, i see. Please bear with me a moment to check thanks", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 22000000, 
+            "text": "Thank you", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 23000000, 
+            "text": "Okay", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 24000000, 
+            "text": "Never mind its working noe", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 25000000, 
+            "text": "now", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 26000000, 
+            "text": "Yes, that's as a result of having just freed up your access for you online", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 27000000, 
+            "text": "Is there anything else I can help you with today", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 28000000, 
+            "text": "Would you be able to give me a rough quote for the mez #NUM vehicle also", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 29000000, 
+            "text": "on multicar", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 30000000, 
+            "text": "Sure, if you're now looking to add that vehicle back on as a second vehicle", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 31000000, 
+            "text": "Here's a guide on how to add another car", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 32000000, 
+            "text": "Click the 'Add a Vehicle' button and enter the new car details.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 33000000, 
+            "text": "After you've completed this. Scroll down to the bottom of the page, select a date for the change and click 'get quote'.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 34000000, 
+            "text": "Are you happy to continue online unassisted Live Chat support will be available throughout simply click the \u2018Chat Now\u2019 button on the right to get back in touch.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }
+    ]
+}

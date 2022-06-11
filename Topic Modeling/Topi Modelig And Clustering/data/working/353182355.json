@@ -1,0 +1,262 @@
+{
+    "entries": [
+        {
+            "start_timestamp_usec": 1000000, 
+            "text": "Your web support advisor today is Thorley, from the XYZ Live Chat team", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 2000000, 
+            "text": "Welcome to XYZ's help and support web team", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 3000000, 
+            "text": "Secure forms are enabled during this chat session", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 4000000, 
+            "text": "Hi User 21, my #ALNUM Thorley. How may I help you today", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 5000000, 
+            "text": "Hi Thorley, I need to update the address details associated with my car insurance policy please as we have moved.", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 6000000, 
+            "text": "Ok, not a problem at all.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 7000000, 
+            "text": "Let me bring up your policy details.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 8000000, 
+            "text": "You can do this change online via MyXYZ, which will also waive the admin fee for you.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 9000000, 
+            "text": "Once logged in, click the \u2018Profile\u2019 option top right hand corner, then click the \u2018Update details\u2019 button.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 10000000, 
+            "text": "", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 11000000, 
+            "text": "Ok, does it give you an option to amend your address in the Profile page", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 12000000, 
+            "text": "No", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 13000000, 
+            "text": "Ok, not to worry, let's get this change done for you.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 14000000, 
+            "text": "When did you move to your new address", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 15000000, 
+            "text": "#ALNUM Dec", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 16000000, 
+            "text": "Great thank you. Will need to do the change from today.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 17000000, 
+            "text": "How many vehicles in total will be at the new address", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 18000000, 
+            "text": "", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 19000000, 
+            "text": "Ok, let me update those details for you.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 20000000, 
+            "text": "Address has been confirmed as #NUM Wavell Way, Huntington, Chester, Cheshire, #ALNUM #ALNUM", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 21000000, 
+            "text": "Can you confirm which vehicle will be kept on the street overnight", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 22000000, 
+            "text": "", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 23000000, 
+            "text": "Thank you.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 24000000, 
+            "text": "So, to clarify, the Astra will still be kept on the driveway, with the fiesta now on the street.oth vehicles will complete 'less than 10000' miles a year. The Astra will be used for social and commuting use and the fiesta just social and pleasure use only", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 25000000, 
+            "text": "", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 26000000, 
+            "text": "Thank you.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 27000000, 
+            "text": "And to clarify that Joanna Tracey lives at the new address with you", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 28000000, 
+            "text": "Yes", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 29000000, 
+            "text": "The cover remains comprehensive for both vehicles, the XS's will remain the same. There are no additional covers such as courtesy car, motor legal and breakdown. Is this still ok", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 30000000, 
+            "text": "All fine", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 31000000, 
+            "text": "Great. As you've recently moved have you sorted out your home insurance yet If not did you know that you're entitled to a discount of #NUM for having car insurance with us and that's on top of the up to #NUM discount for doing the home quote online.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 32000000, 
+            "text": "I've sorted this already thanks but am aware of the discount and will likely get a quote from yourselves in November closer to renewal, thanks", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 33000000, 
+            "text": "That's fine, thank you for clarifying.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 34000000, 
+            "text": "To make this change from today until renewal results in an additional premium of #NUM This is due to the change in address and moving one of the vehicles to be kept on the street overnight. This means your monthly payments will change from #NUM to #NUM with the next effected payment being on #ALNUM", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 35000000, 
+            "text": "That's fine please go ahead", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 36000000, 
+            "text": "Ok, will do that now for you.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 37000000, 
+            "text": "Your amended policy documents will appear in your online account in the next #NUM minutes or so.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 38000000, 
+            "text": "That's all been done for you.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 39000000, 
+            "text": "Is there anything else I can help you with today", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 40000000, 
+            "text": "That was all, thank you.", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 41000000, 
+            "text": "Great, enjoy your new home. If theres anything else, please come back to us via chat.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 42000000, 
+            "text": "Thank you for chatting with me today. #ALNUM love to know what you think of our chat service. If #ALNUM happy to answer a few quick questions, click on #ALNUM #ALNUM", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 43000000, 
+            "text": "The chat session has been closed by your XYZ Advisor. To receive a transcript of this chat, or tell us how we did today, please click 'Close Chat' at the top right of this window.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "entries": [
+        {
+            "start_timestamp_usec": 1000000, 
+            "text": "Your web support advisor today is Damian, from the XYZ Live Chat team", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 2000000, 
+            "text": "Welcome to XYZ's help and support web team", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 3000000, 
+            "text": "Secure forms are enabled during this chat session", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 4000000, 
+            "text": "Hi User 38, my #ALNUM Damian. How may I help you today", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 5000000, 
+            "text": "Good morning Damian, I was involved in an accident last week and my vehicle is currently being repaired", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 6000000, 
+            "text": "I'm trying to review my documents to see if I have third party cover on my policy to drive another vehicle in the meantime, could you help me", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 7000000, 
+            "text": "With our comprehensive insurance, the main users of the insured vehicles can drive another car third party only providing at the start of the current insurance term they're #NUM years old or over and have the owner's permission. For full terms and conditions please see page #NUM of your policy booklet which can be found by clicking a href#Link target\u201dblank\u201dherea", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 8000000, 
+            "text": "This will be noted on the policy certificate as well.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 9000000, 
+            "text": "Perfect, I've been trying to find it but couldn't, have been reading this doc for #NUM minutes", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 10000000, 
+            "text": "No worries.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 11000000, 
+            "text": "Is there anything else I can help you with today", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 12000000, 
+            "text": "That's everything thanks, have a good day", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 13000000, 
+            "text": "Thank you for chatting with me today. #ALNUM love to know what you think of our chat service. If #ALNUM happy to answer a few quick questions, click on #ALNUM #ALNUM", 
+            "role": "AGENT", 
+            "user_id": 1
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "entries": [
+        {
+            "start_timestamp_usec": 1000000, 
+            "text": "Your web support advisor today is Claire, from the XYZ Live Chat team", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 2000000, 
+            "text": "Welcome to XYZ's help and support web team", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 3000000, 
+            "text": "Secure forms are enabled during this chat session", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 4000000, 
+            "text": "Hi User 8, my #ALNUM Claire. How may I help you today", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 5000000, 
+            "text": "We chatting to jack and ended chat but thought of something else. Actually, one thing on checking the policy is that we didn't realise that skis weren't included and had to be mentioned separately. Is there a standard value that can be covered for separately or do we say how much we want the skis covered for etc", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 6000000, 
+            "text": "You would need to specify how much the Ski's are worth and we would then insure them for that amount Carole.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 7000000, 
+            "text": "Do we need to specify make and model etc or just 'skis'", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 8000000, 
+            "text": "We would need a description of these so the make and model would help.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 9000000, 
+            "text": "Okay I will get my husband to check details etc and come back to you. Is this something I can add via live chat, or will I need to ring up to add", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 10000000, 
+            "text": "You can have these added via Chat, that's fine.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 11000000, 
+            "text": "Ok. Many thanks Claire.", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 12000000, 
+            "text": "Thank you for chatting with me today. #ALNUM love to know what you think of our chat service. If #ALNUM happy to answer a few quick questions, click on #ALNUM #ALNUM", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 13000000, 
+            "text": "Actually are you able to tell me apps how much it will be to cover skis for about #NUM", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 14000000, 
+            "text": "Sure, please bear with me.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 15000000, 
+            "text": "This would cost an additional #NUM to cover these from today up until renewal.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 16000000, 
+            "text": "Also, they are a couple of years old. So do we look up current new price and then are they covered New for old", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 17000000, 
+            "text": "No the current value is fine and they would still be covered new for old.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 18000000, 
+            "text": "Is there anything else I can help you with today", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 19000000, 
+            "text": "Since #ALNUM not heard from you for some time, I will close this chat. If you need any help in future, please #ALNUM hesitate to chat with us again.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 20000000, 
+            "text": "Thank you for chatting with me today. #ALNUM love to know what you think of our chat service. If #ALNUM happy to answer a few quick questions, click on #ALNUM #ALNUM", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 21000000, 
+            "text": "The chat session has been closed by your XYZ Advisor. To receive a transcript of this chat, or tell us how we did today, please click 'Close Chat' at the top right of this window.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }
+    ]
+}

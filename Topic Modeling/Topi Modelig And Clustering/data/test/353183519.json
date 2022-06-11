@@ -1,0 +1,190 @@
+{
+    "entries": [
+        {
+            "start_timestamp_usec": 1000000, 
+            "text": "Your web support advisor today is Thorley, from the XYZ Live Chat team", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 2000000, 
+            "text": "Welcome to XYZ's help and support web team", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 3000000, 
+            "text": "Secure forms are enabled during this chat session", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 4000000, 
+            "text": "Hi User 3, my #ALNUM Thorley. How may I help you today", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 5000000, 
+            "text": "cannot see this policy on my details along with three other policies. I called in before Xmas and was told everything would be transferred over to my new address after spending #ALNUM #NUM mins on the phone to XYZ", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 6000000, 
+            "text": "Let me have a look for you.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 7000000, 
+            "text": "thank you", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 8000000, 
+            "text": "Ok, I can see your policies that are on MyXYZ, which include #NUM home policies, the policy that you have put in the policy number box before the chat had began, which was MMV. This policy has lapsed.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 9000000, 
+            "text": "but I informed the agent that the new car policy needed to be changed as well", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 10000000, 
+            "text": "can you do this", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 11000000, 
+            "text": "The car policy in question had lapsed in April #NUM This was due to the policy not being taken up.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 12000000, 
+            "text": "anyone there", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 13000000, 
+            "text": "Yes i'm here. Unless you have had a new quote done or a new policy that has been set up.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 14000000, 
+            "text": "I took out a car policy the following day", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 15000000, 
+            "text": "Do you have the policy number there Or vehicle registration", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 16000000, 
+            "text": "All the detail should be online", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 17000000, 
+            "text": "#ALNUM", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 18000000, 
+            "text": "I'll see if a new policy is set up under this reg. When was this policy due to start", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 19000000, 
+            "text": "I think early December", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 20000000, 
+            "text": "I have checked under this reg and there is no active policies. Did you take up the policy elsewhere With a broker", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 21000000, 
+            "text": "No I am certain it was with XYZ. could it be at my old address Trelawney #ALNUM", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 22000000, 
+            "text": "It would of picked up a policy via the registration if there was one.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 23000000, 
+            "text": "The only active policies we have are the #NUM home policies that I can see in your MyXYZ account.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 24000000, 
+            "text": "ok I will just look at my emails to see if I can confirmation from you", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 25000000, 
+            "text": "If there is a policy number then we can look into it for you.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 26000000, 
+            "text": "Can you currently see your Home policies in MyXYZ", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 27000000, 
+            "text": "could it be R caddick or some derivative", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 28000000, 
+            "text": "As you've supplied the vehicle reg, it would bring up all active and inactive polices. Theres nothing on our system to show an active policy i'm afraid.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 29000000, 
+            "text": "ok I am really unsure now I will need to come back to you", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 30000000, 
+            "text": "I can confirm there is no active policy with us for registration #ALNUM", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 31000000, 
+            "text": "The last policy for this reg had lapsed back in April #ALNUM", 
+            "role": "AGENT", 
+            "user_id": 1
+        }
+    ]
+}

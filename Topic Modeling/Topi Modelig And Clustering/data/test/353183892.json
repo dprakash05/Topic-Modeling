@@ -1,0 +1,412 @@
+{
+    "entries": [
+        {
+            "start_timestamp_usec": 1000000, 
+            "text": "Your web support advisor today is Martin, from the XYZ Live Chat team", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 2000000, 
+            "text": "Welcome to XYZ's help and support web team", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 3000000, 
+            "text": "Secure forms are enabled during this chat session", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 4000000, 
+            "text": "Hi User 32, my #ALNUM Martin. How may I help you today", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 5000000, 
+            "text": "Hi Martin, I tried to renew my motor insurance yesterday online but couldnt complete it as I had to make a change which I couldnt do online and your call centers were closed by then", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 6000000, 
+            "text": "No problem", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 7000000, 
+            "text": "And what changes are you looking to make", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 8000000, 
+            "text": "My husband Sandeep who is a named driver for both my cars has a FPN for speeding thats needs to be applyed", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 9000000, 
+            "text": "Sure", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 10000000, 
+            "text": "Can I take the dates and convictions codes please", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 11000000, 
+            "text": "other then that all other details are the same for both cars", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 12000000, 
+            "text": "The date is #NUM and the code I think is #ALNUM", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 13000000, 
+            "text": "Thanks", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 14000000, 
+            "text": "And was there any suspension as a result of this", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 15000000, 
+            "text": "No suspension", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 16000000, 
+            "text": "And are there any other convictions to be noted at all", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 17000000, 
+            "text": "He had to pay #NUM and got #NUM points on his licence", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 18000000, 
+            "text": "Thanks", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 19000000, 
+            "text": "no nothing else", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 20000000, 
+            "text": "Thanks", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 21000000, 
+            "text": "So, with that added, the renewal premium will increase to #ALNUM", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 22000000, 
+            "text": "Is that the best price you can offer me", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 23000000, 
+            "text": "To check you are not missing any discounts on this policy do you currently hold any other policies with us, such as home insurance, life insurance or a pension", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 24000000, 
+            "text": "we have a breakdown insurance", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 25000000, 
+            "text": "Thanks", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 26000000, 
+            "text": "let me just check once again", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 27000000, 
+            "text": "And have you used the XYZ Drive app at all", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 28000000, 
+            "text": "No we havent", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 29000000, 
+            "text": "Thanks", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 30000000, 
+            "text": "ok I can confirm that I have breakdown cover with AVIVA", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 31000000, 
+            "text": "Thanks", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 32000000, 
+            "text": "There was an online discount always offered to me can that be applied as well please", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 33000000, 
+            "text": "I can take a look to see if there are any further discounts for the renewal, however you won't be able to receive the online renewal discount, as you are no longer able to renew through your account as the renewal date is today", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 34000000, 
+            "text": "Thanks for looking into this", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 35000000, 
+            "text": "So, have you received and read through the renewal documents And there are no changes to be made other than adding the conviction", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 36000000, 
+            "text": "I couldnt renew online as there is no option to edit online to make changes", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 37000000, 
+            "text": "I was on vacation so could do it any earlier", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 38000000, 
+            "text": "could'nt", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 39000000, 
+            "text": "Have you received and read through the renewal documents And there are no changes to be made other than adding the conviction", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 40000000, 
+            "text": "yes all other details are correct with no changes just this adding of conviction which was not possible to do online otherwise I would have done it yesterday itself,", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 41000000, 
+            "text": "Thanks", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 42000000, 
+            "text": "So, based on those details, I can apply a discount to bring the premium down to #ALNUM", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 43000000, 
+            "text": "Thats great thanks for that", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 44000000, 
+            "text": "As the renewal date has already started, you will need to make payment for this with us directly.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 45000000, 
+            "text": "We can take your payment details securely through this chat system and then process the transaction for you. Please #ALNUM enter any financial information directly into the chat window as an encrypted secure form will appear to the right of this chat shortly. Is that ok", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 46000000, 
+            "text": "yes I can make the payment right away. Just one more question  is my NCD secured", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 47000000, 
+            "text": "Yes, as confirmed on the renewal documents, both vehicles have no claims protection.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 48000000, 
+            "text": "A form will soon appear alongside the chat window. Please enter the information requested.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 49000000, 
+            "text": "Please note a #NUM fee of the total amount may be charged when paying by credit card, this does not apply when paying by debit card. The total amount will be debited from your account within the next #NUM hours.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 50000000, 
+            "text": "great thanks for confirming", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 51000000, 
+            "text": "No problem", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 52000000, 
+            "text": "Secure form data sent", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 53000000, 
+            "text": "I'm afraid we don't accept American Express", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 54000000, 
+            "text": "oh is it", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 55000000, 
+            "text": "ok can we try again with a different card", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 56000000, 
+            "text": "Sure, thanks", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 57000000, 
+            "text": "I will resend the form now", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 58000000, 
+            "text": "Secure form data sent", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 59000000, 
+            "text": "Is that a Visa or Visa Debit card", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 60000000, 
+            "text": "VISA debit card", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 61000000, 
+            "text": "Thanks", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 62000000, 
+            "text": "I will get that payment processed for you now.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 63000000, 
+            "text": "thank you", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 64000000, 
+            "text": "And the updated documents will show in your online account in the next #NUM minutes", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 65000000, 
+            "text": "thank you", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 66000000, 
+            "text": "No problem", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 67000000, 
+            "text": "Is there anything else I can help with at all", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 68000000, 
+            "text": "thats it thank you Martin", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }
+    ]
+}

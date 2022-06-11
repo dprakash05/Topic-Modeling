@@ -1,0 +1,106 @@
+{
+    "entries": [
+        {
+            "start_timestamp_usec": 1000000, 
+            "text": "Your web support advisor today is Damian, from the XYZ Live Chat team", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 2000000, 
+            "text": "Welcome to XYZ's help and support web team", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 3000000, 
+            "text": "Secure forms are enabled during this chat session", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 4000000, 
+            "text": "Hi User 12, my #ALNUM Damian. How may I help you today", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 5000000, 
+            "text": "I have declared #NUM years NCD on my recent Policy application. This was earned via my last Company Car. I have a letter from my employer and Insurance provider stating the periods when I was accident free. Do you want a copy of this letter and if so can I email a copy to you at what address Thanks", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 6000000, 
+            "text": "Was it a company car that you had", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 7000000, 
+            "text": "Yes", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 8000000, 
+            "text": "Have you given up the company car", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 9000000, 
+            "text": "Yes when I left the Company effective #NUM December #NUM I have now purchased a car  just insured with XYZ that I will use for my new Company business.", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 10000000, 
+            "text": "In which case we would not accept this as no claims discount I'm afraid. We may be able to offer you an introductory discount. There are a few questions to go over in order to offer this.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 11000000, 
+            "text": "This is not stated on the Insurance application. If I am unable to enjoy I want to cancel the application just made and get a full refund. Will you action this immediately please", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 12000000, 
+            "text": "Will do. Just some legal info to go over in order to cancel the cover. Please notify all drivers that they'll not be insured on any listed vehicles. Details of the vehicles removed will be passed to the Motor Insurance Database to show that XYZ is no longer insurer. The police check this database to reduce numbers of uninsured drivers. Please note it's an offence to use a motor vehicle on a public highway without adequate third party insurance. Please refer to your renewal notification for confirmation of your no claims discount entitlement.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 13000000, 
+            "text": "The refund of #NUM will go back to the card it was paid on in the next #NUM working days. Is this all ok", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 14000000, 
+            "text": "That fine thank you but disappointing that the Policy application does not clearly state the NCD via Company cars is invalid. Perhaps you can highlight this to the Company for future", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }, 
+        {
+            "start_timestamp_usec": 15000000, 
+            "text": "I will pass it on to my manager. All Cancelled for you.", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 16000000, 
+            "text": "Is there anything else I can help you with today", 
+            "role": "AGENT", 
+            "user_id": 1
+        }, 
+        {
+            "start_timestamp_usec": 17000000, 
+            "text": "Thanks Damien, Happy New year.yeye", 
+            "role": "CUSTOMER", 
+            "user_id": 2
+        }
+    ]
+}
